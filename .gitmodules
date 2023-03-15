@@ -8,3 +8,8 @@
 	url = https://github.com/mayoverse/arsenal
 	shallow = true
 	registered = true
+[submodule "kinship2"]
+	path = kinship2
+	url = https://github.com/mayoverse/kinship2
+	shallow = true
+	registered = true
